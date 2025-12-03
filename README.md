@@ -1,5 +1,7 @@
 Standard c++ compilation, in terminal run:
+
 g++ -std=c++17 main.cpp -o main
+
 ./main
 
 Which will run my sample input, or you can copy the code without the main function and run with any test cases.
